@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://gabrysbiz.github.io/sitemapindex.xml
